@@ -6,9 +6,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
-@RestController
+//@RestController
 public class StarController {
-
 
     private final AtomicInteger id =new AtomicInteger();
     private final String template = "Hello %s";
