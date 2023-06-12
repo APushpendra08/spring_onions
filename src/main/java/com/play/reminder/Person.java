@@ -1,4 +1,4 @@
-package com.play.reminder.Reminder;
+package com.play.reminder;
 
 import org.springframework.data.annotation.Id;
 
